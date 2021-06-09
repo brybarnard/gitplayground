@@ -1,1 +1,3 @@
 Another text files
+
+More changes in new files
